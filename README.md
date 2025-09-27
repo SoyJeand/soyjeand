@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jean 
 
-<!--
-**SoyJeand/soyjeand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy un desarrollador apasionado por la tecnología, la programación y el aprendizaje continuo. Me encanta colaborar en proyectos open source y compartir conocimiento con la comunidad.
 
-Here are some ideas to get you started:
+- 🌱 Actualmente aprendiendo: React, Typescript y Node.js
+- � Cómo contactarme: Jeandelacruz.214@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+
+## 📈 Estadísticas de GitHub
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
+
+## 🌐 Conéctate conmigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://linkedin.com/in/jean-de-la-cruz-martinez-b4816125b/)
+[![Correo](https://img.shields.io/badge/-Email-333?style=flat&logo=gmail)](mailto:jeandelacruz.214@gmail.com)
+
+---
