@@ -16,7 +16,7 @@ Soy un desarrollador apasionado por la tecnología, la programación y el aprend
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
 
 ## 🌐 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://linkedin.com/in/jean-de-la-cruz-martinez-b4816125b/)
-[![Correo](https://img.shields.io/badge/-Email-333?style=flat&logo=gmail)](mailto:jeandelacruz.214@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jean-de-la-cruz-martinez-b4816125b/)
+[![Email](https://img.shields.io/badge/Email-Contacto-red?logo=gmail&logoColor=white)](mailto:jeandelacruz.214@gmail.com)
 
 ---
