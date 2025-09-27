@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jean%20%20De%20La%20Cruz&textBg=false
+
 # 👋 ¡Hola! Soy Jean 
 
 ## 🚀 Sobre mí
