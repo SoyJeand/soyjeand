@@ -17,6 +17,7 @@ Soy un desarrollador apasionado por la tecnología, la programación y el aprend
 
 ## 🌐 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jean-de-la-cruz-martinez-b4816125b/)
-[![Email](https://img.shields.io/badge/Email-Contacto-red?logo=gmail&logoColor=white)](mailto:jeandelacruz.214@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contacto-red?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=jeandelacruz.214@gmail.com)
+
 
 ---
