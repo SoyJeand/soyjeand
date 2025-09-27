@@ -1,6 +1,5 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jean%20%20De%20La%20Cruz&textBg=false
+![Jean De La Cruz](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jean%20%20De%20La%20Cruz&textBg=false)
 
-# 👋 ¡Hola! Soy Jean 
 
 ## 🚀 Sobre mí
 Soy un desarrollador apasionado por la tecnología, la programación y el aprendizaje continuo. Me encanta colaborar en proyectos open source y compartir conocimiento con la comunidad.
