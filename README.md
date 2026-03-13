@@ -82,14 +82,6 @@ Incluye:
 
 🔗 https://codemasac.com/
 
----
-
-# 📈 Estadísticas de GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
-
----
-
 # 🌐 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jean-de-la-cruz-martinez-b4816125b)
