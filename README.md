@@ -48,6 +48,16 @@ jeandelacruz.214@gmail.com
 
 # 📌 Featured Projects
 
+### 🏢 Enterprise System – CRUD and APIs
+Backend system developed with **Java and Spring** for enterprise data management.
+
+Features:
+- Full **CRUD implementation**
+- Development of **REST APIs**
+- Integration with **SQL Server and MySQL**
+
+---
+
 ### 🐾 Mobile Application for Pet Walk Management
 Android application developed with **Kotlin and Jetpack Compose** that allows managing and tracking pet walks through geolocation.
 
@@ -56,16 +66,6 @@ Technologies used:
 - Jetpack Compose
 - Room
 - Google Maps API
-
----
-
-### 🏢 Enterprise System – CRUD and APIs
-Backend system developed with **Java and Spring** for enterprise data management.
-
-Features:
-- Full **CRUD implementation**
-- Development of **REST APIs**
-- Integration with **SQL Server and MySQL**
 
 ---
 
