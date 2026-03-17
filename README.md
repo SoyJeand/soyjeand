@@ -1,44 +1,44 @@
 ![Jean De La Cruz](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jean%20De%20La%20Cruz&textBg=false)
 
-💻 Desarrollador de software junior enfocado en desarrollo backend y aplicaciones móviles.  
-Me interesa construir sistemas escalables, APIs y aplicaciones con buenas prácticas de ingeniería de software.
+💻 Junior software developer focused on backend development and mobile applications.  
+I am interested in building scalable systems, APIs, and applications following good software engineering practices.
 
-Actualmente busco oportunidades como **Software Developer / Backend Developer Junior** donde pueda seguir creciendo profesionalmente.
+Currently seeking opportunities as a **Software Developer / Backend Developer Junior** where I can continue growing professionally.
 
 ---
 
-# 🚀 Sobre mí
+# 🚀 About Me
 
-- 🎓 Graduado en **Desarrollo de Software – ISIL**
-- 💡 Experiencia desarrollando **APIs, sistemas CRUD y aplicaciones móviles**
-- 🌱 Actualmente fortaleciendo conocimientos en **Java, Spring Boot y arquitectura backend**
-- 📍 Lima, Perú
+- 🎓 Graduate in **Software Development – ISIL**
+- 💡 Experience building **REST APIs, CRUD systems, and mobile applications**
+- ⚙️ Strong focus on **Java, Spring Boot, and backend development**
+- 📍 Lima, Peru
 
-📫 **Contacto:**  
+📫 **Contact:**  
 jeandelacruz.214@gmail.com
 
 ---
 
-# 🛠️ Tecnologías y herramientas
+# 🛠️ Technologies and Tools
 
-### Lenguajes
+### Languages
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=openjdk)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=flat&logo=kotlin)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 
-### Frameworks y tecnologías
+### Frameworks and Technologies
 ![Spring](https://img.shields.io/badge/-Spring-333?style=flat&logo=spring)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-333?style=flat&logo=android)
 
-### Bases de datos
+### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 ![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333?style=flat&logo=microsoftsqlserver)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 
-### Herramientas
+### Tools
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman)
@@ -46,12 +46,12 @@ jeandelacruz.214@gmail.com
 
 ---
 
-# 📌 Proyectos destacados
+# 📌 Featured Projects
 
-### 🐾 Aplicación móvil de gestión de paseos para mascotas
-Aplicación Android desarrollada con **Kotlin y Jetpack Compose** que permite gestionar y localizar paseos de mascotas mediante geolocalización.
+### 🐾 Mobile Application for Pet Walk Management
+Android application developed with **Kotlin and Jetpack Compose** that allows managing and tracking pet walks through geolocation.
 
-Tecnologías utilizadas:
+Technologies used:
 - Kotlin
 - Jetpack Compose
 - Room
@@ -59,28 +59,28 @@ Tecnologías utilizadas:
 
 ---
 
-### 🏢 Sistema Empresarial – CRUD y APIs
-Sistema backend desarrollado con **Java y Spring** para gestión de datos empresariales.
+### 🏢 Enterprise System – CRUD and APIs
+Backend system developed with **Java and Spring** for enterprise data management.
 
-Características:
-- Implementación de **CRUD completo**
-- Desarrollo de **APIs REST**
-- Integración con **SQL Server y MySQL**
+Features:
+- Full **CRUD implementation**
+- Development of **REST APIs**
+- Integration with **SQL Server and MySQL**
 
 ---
 
-### 🌐 Sitio Web Corporativo
-Proyecto freelance desarrollado con **WordPress y Elementor**.
+### 🌐 Corporate Website
+Freelance project developed with **WordPress and Elementor**.
 
-Incluye:
-- Configuración de hosting y dominio
-- Correos corporativos
-- Diseño responsive
-- SEO básico
+Includes:
+- Hosting and domain configuration
+- Corporate email setup
+- Responsive design
+- Basic SEO
 
 🔗 https://codemasac.com/
 
-# 🌐 Conéctate conmigo
+# 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jean-de-la-cruz-martinez-b4816125b)
 
