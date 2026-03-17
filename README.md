@@ -1,7 +1,5 @@
 ![Jean De La Cruz](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jean%20De%20La%20Cruz&textBg=false)
 
-# 👋 Hola, soy Jean De La Cruz
-
 💻 Desarrollador de software junior enfocado en desarrollo backend y aplicaciones móviles.  
 Me interesa construir sistemas escalables, APIs y aplicaciones con buenas prácticas de ingeniería de software.
 
